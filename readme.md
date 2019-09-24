@@ -419,6 +419,8 @@ Otros ejemplos podrían ser: encapsular
 [FireStore en un Worker](https://davidea.st/articles/firebase-bundle-size), en
 un `FireWorker` 🔥.
 
+¡Os dejo a vosotr@s que penséis qué proceso o librería podríais meter en un Web Worker en vuestras aplicaciones 😜!
+
 ## Conclusión
 
 En mi opinión, con esta nueva API de navegador
